@@ -15,5 +15,5 @@ This project focuses on clean UI, responsive layouts, and frontend best practice
 - JavaScript
 
 ## Live Demo
-- GitHub Pages: https://chaitrik-pathak.github.io/saas-landingpage-demo
+- GitHub Pages: https://chaitrik-pathak.github.io/SAAS-landingpage-demo
 - Netlify: https://saas-landingpage-demo.netlify.app/
